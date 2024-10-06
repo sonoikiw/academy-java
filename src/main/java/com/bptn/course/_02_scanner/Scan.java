@@ -9,7 +9,7 @@ public class Scan {
 		Scanner scan = new Scanner (System.in);
 		
 		String userName;
-		
+		       
 		System.out.println("Enter username: ");
 		userName = scan.nextLine();
 		
